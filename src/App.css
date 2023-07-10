@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp8531298.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
